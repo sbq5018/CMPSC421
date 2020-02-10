@@ -1,2 +1,2 @@
-# cmpsc421
+# Attendance Tracking System
 Course project
