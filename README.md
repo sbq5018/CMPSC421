@@ -1,2 +1,2 @@
 # Attendance Tracking System
-Course project
+Team 4 Course project
